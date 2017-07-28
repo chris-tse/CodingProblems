@@ -9,7 +9,7 @@ A collection of challenges for whiteboard and/or pair programming sessions.
 Write a function called `pyramid(n)` which prints out a pyramid of a character of your choice. The function should accept an integer as an argument which is the width of the base of the pyramid.
 
 Example:
-```
+```js
 > pyramid(5)
 
 >   0
@@ -35,5 +35,27 @@ Implement the following operations of a stack using only standard queue operatio
 - `pop()` - removes and returns the top element of the stack
 - `top()` - returns the top element but does not remove it
 - `empty()` - return whether the stack is empty
+
+Example:
+
+```js
+let stack = new MyStack()
+// Stack: []
+
+stack.push(1)
+// Stack: [1]
+
+stack.push(2)
+// Stack: [1, 2]
+
+stack.push(3)
+// Stack: [1, 2, 3]
+
+stack.pop() // returns 3
+// Stack: [1, 2]
+
+stack.top() // returns 2
+// Stack: [1, 2]
+```
 
 [Solution](https://github.com/christopher-tse/CodingProblems/blob/master/solutions/stackasqueue.js)
