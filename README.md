@@ -28,3 +28,12 @@ Example:
 ## Data Structures
 
 ### Implement Stack as Queue
+[Link to LeetCode problem page](https://leetcode.com/problems/implement-stack-using-queues/tabs/description)
+
+Implement the following operations of a stack using queues:
+- `push(x)` - push element `x` to top of stack
+- `pop()` - removes and returns the top element of the stack
+- `top()` - returns the top element but does not remove it
+- `empty()` - return whether the stack is empty
+
+[Solution](https://github.com/christopher-tse/CodingProblems/blob/master/solutions/stackasqueue.js)
