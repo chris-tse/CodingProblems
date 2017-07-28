@@ -30,7 +30,7 @@ Example:
 ### Implement Stack as Queue
 [Link to LeetCode problem page](https://leetcode.com/problems/implement-stack-using-queues/tabs/description)
 
-Implement the following operations of a stack using queues:
+Implement the following operations of a stack using only standard queue operations (`push to back`, `peek/pop from front`, `size`, and `isEmpty`):
 - `push(x)` - push element `x` to top of stack
 - `pop()` - removes and returns the top element of the stack
 - `top()` - returns the top element but does not remove it
