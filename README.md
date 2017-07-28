@@ -2,7 +2,7 @@
 
 A collection of challenges for whiteboard and/or pair programming sessions.
 
-### Pyramid
+## Pyramid
 
 Write a function called `pyramid(n)` which prints out a pyramid of a character of your choice. The function should accept an integer as an argument which is the width of the base of the pyramid.
 
@@ -21,3 +21,4 @@ Example:
    000000
   00000000
 ```
+[Solution]()
