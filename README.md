@@ -61,5 +61,5 @@ stack.top() // returns 2
 // Stack: [1, 2]
 ```
 
-[Solution (JS)](https://github.com/christopher-tse/CodingProblems/blob/master/solutions/stackasqueue.js)
+[Solution (JS)](https://github.com/christopher-tse/CodingProblems/blob/master/solutions/stackasqueue.js)  
 [Solution (Java)](https://github.com/christopher-tse/CodingProblems/blob/master/solutions/stackasqueue.java)
