@@ -42,6 +42,9 @@ Example:
 let stack = new MyStack()
 // Stack: []
 
+stack.empty() // true
+// Stack: []
+
 stack.push(1)
 // Stack: [1]
 
