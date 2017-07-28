@@ -21,4 +21,4 @@ Example:
    000000
   00000000
 ```
-[Solution]()
+[Solution](https://github.com/christopher-tse/CodingProblems/blob/master/solutions/pyramid.js)
