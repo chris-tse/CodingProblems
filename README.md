@@ -1,6 +1,6 @@
 # Coding Problem Suggestions
 
-A collection of challenges for whiteboard and/or pair programming sessions.
+A collection of challenges for whiteboard and/or pair programming sessions with solutions I have come up with either in JavaScript or Java.
 
 ## Algorithms
 
