@@ -4,6 +4,34 @@ A collection of challenges for whiteboard and/or pair programming sessions with 
 
 ## Algorithms
 
+### Fizz Buzz ###
+
+Write a function called `fizzbuzz(n)` which returns an array of *string* values from 1 to `n`. For values that are evenly divisible by 3 replace with `'Fizz'` and values that are evenly divisible by 5 replace by `'Buzz'`. If it is both evenly divisible by 3 and 5, replace with `'FizzBuzz'`.
+
+Example:
+```js
+> FizzBuzz(15)
+
+> [
+    "1",
+    "2",
+    "Fizz",
+    "4",
+    "Buzz",
+    "Fizz",
+    "7",
+    "8",
+    "Fizz",
+    "Buzz",
+    "11",
+    "Fizz",
+    "13",
+    "14",
+    "FizzBuzz"
+  ]
+```
+[Solution](https://github.com/christopher-tse/CodingProblems/blob/master/solutions/fizzbuzz.js)
+
 ### Pyramid ###
 
 Write a function called `pyramid(n)` which prints out a pyramid of a character of your choice. The function should accept an integer as an argument which is the width of the base of the pyramid.
