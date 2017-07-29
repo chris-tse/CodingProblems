@@ -6,11 +6,13 @@ A collection of challenges for whiteboard and/or pair programming sessions with 
 
 ### Fizz Buzz ###
 
-Write a function called `fizzbuzz(n)` which returns an array of *string* values from 1 to `n`. For values that are evenly divisible by 3 replace with `'Fizz'` and values that are evenly divisible by 5 replace by `'Buzz'`. If it is both evenly divisible by 3 and 5, replace with `'FizzBuzz'`.
+Write a function called `fizzBuzz(n)` which returns an array of *string* values from 1 to `n`. For values that are evenly divisible by 3 replace with `'Fizz'` and values that are evenly divisible by 5 replace by `'Buzz'`. If it is both evenly divisible by 3 and 5, replace with `'FizzBuzz'`.
+
+Alternative: Same concept as above, but instead of returning an array, simply print the values.
 
 Example:
 ```js
-> FizzBuzz(15)
+> fizzBuzz(15)
 
 > [
     "1",
